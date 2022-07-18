@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\bin\Debug\net6.0\UC1_addressbook.exe
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\bin\Debug\net6.0\UC1_addressbook.deps.json
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\bin\Debug\net6.0\UC1_addressbook.runtimeconfig.json
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\bin\Debug\net6.0\UC1_addressbook.dll
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\bin\Debug\net6.0\UC1_addressbook.pdb
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.dll
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\refint\UC1_addressbook.dll
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.pdb
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\UC1_addressbook.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC1_addressbook\UC1_addressbook\obj\Debug\net6.0\ref\UC1_addressbook.dll
